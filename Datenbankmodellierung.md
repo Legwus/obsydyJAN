@@ -49,5 +49,6 @@ Entitäten:
 		- minutenNachEinsatzErstenBusses: 0
 
 Beziehungen:
-	Fahrer trainiert für Bus (1,n)
+	Fahrer trainiert für Bus (0,n),(0,n)
+	An welchen Haltestellen hält die Linie (1,n),(0,n) + nach wie vielen minuten
 	
