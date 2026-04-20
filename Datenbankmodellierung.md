@@ -51,4 +51,7 @@ Entitäten:
 Beziehungen:
 	Fahrer trainiert für Bus (0,n),(0,n)
 	An welchen Haltestellen hält die Linie (1,n),(0,n) + nach wie vielen minuten
-	
+
+
+Anmerkungen zum diagramm von anderer gruppe:
+- Minuten ein bisschen unklar formuliert
