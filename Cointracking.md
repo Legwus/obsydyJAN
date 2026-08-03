@@ -364,7 +364,7 @@ Legende:
 ⏳waiting for reply
 
 Aufgaben: 
-<input type="checkbox">r.Bohsem: 28 missings übrig, henrik schickt ihm zu, müssen auf antwort warten ⏳
+<input type="checkbox">r.Bohsem: 04.08 besprechen, eigentlich fast fertig ⏳❗
 <input type="checkbox">Indigo8: 04.08 gespräch❗
 <input type="checkbox">corina: 04.08 gespräch❗
 <input type="checkbox">Lucylou: eigentlich fertig, fragt nur viel nach bei henrik ✅
@@ -377,7 +377,12 @@ Aufgaben:
 <input type="checkbox">Andrea St.: unsicher was da los ist eigentlich, ich glaube henrik lässt mich wissen ❗
 <input type="checkbox">nousername3000: ⏳
 <input type="checkbox">tmorrisxyz: henrik soll mir feedback geben ⏳
-<input type="checkbox">rudi.privat: noch nicht angefangen ❌
-<input type="checkbox">jonaskoepke: nur noch  10 missings, werden dem kunden zugeschickt mal schauen was er dann sagt ⏳
+<input type="checkbox">rudi.privat: hat noch 41 missings, alles bitget, möglicherweise super easy missings 🟠⏳
+<input type="checkbox">jonaskoepke: nur noch  10 missings, werden dem kunden zugeschickt mal schauen was er dann sagt ⏳❗ besprechen 04.08
 <input type="checkbox">bkoenich: ????
 
+
+
+
+**idee:** notizen automatisieren -> daten von freshdesk fetchen und anhand davon tickets besser klassifizieren ob wir antworten müssen oder nicht usw. wenn jemand Hold eingestellt hat aber eigentlich ist das ticket schon done dass das mitgeteilt wird und in der regel identifiziert.
+**zweite idee:** ein system erstellen das versucht automatisch links zu erstellen damit ich nicht die ganze zeit rumkopieren muss und explorer suchen, sondern dass er versucht das selbst festzustellen.
