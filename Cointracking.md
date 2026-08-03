@@ -215,3 +215,169 @@ https://bscscan.com/address/0x68b69c60169f8ef10ad2c4d589b340b79d87e18b
 
 
 leazu: es scheint so zu sein, dass selbst wenn die kujira daten richtig importiert werden, haben sie keine gegentransaktionen mit denen die 
+
+
+selkirk:
+https://etherscan.io/address/0x98659342b4e3d617ec61a8475ef9a679af7e5da0
+https://etherscan.io/address/0xa012fa7fc60807995552b13bc336f9c2e34e55c2
+https://etherscan.io/address/0xa4899552c61de6d91242621d0995608c4f363f40
+trezor daten anfragen
+
+derPicknicker:
+https://basescan.org/address/0x08842cceb87ebb17ac12b8456293f6d07480b57a
+
+
+Braddox:
+hat der Bitstamp genutzt?
+
+
+bettina:
+https://etherscan.io/address/0xc4ad2fad06cd9440a5acf635f84d80d343972a40 maybe bitget
+https://bscscan.com/address/0xd7fcd7671a90dad75d9ee6d87f3770333750eff1
+https://bscscan.com/address/0xbeee21053b0b7403e6cfa23c70fe2ef27e632c37
+^schon geschickt
+können wir mexc für sie anpassen?
+https://bscscan.com/address/0xFad62725294456FE4255362f842Cb0F1ab56106E binance
+https://bscscan.com/address/0x1ecaeda8e1e9580a184251a4531c9e966c1235c8
+https://bscscan.com/address/0xcd603C3B25F262757E721D633131FE8aD2717AE5
+https://btcscan.org/address/1BNYeqzLQVZjYFAzCypZMcboXZj91p7bCd
+
+hat sie ein binance account/daten?
+
+
+bkoenich:
+https://btcscan.org/address/17Bw5H5Bts4dZUAW1t3hWnxEST52jf2m44
+https://btcscan.org/address/17So17Ao2bTHV8KGNssiofY7y9VYnDgviK
+https://btcscan.org/address/1HZQiHj5Z3Mb1S6oBGyxLaSM6Re6Ub4PNN
+https://btcscan.org/address/1DGZmG8oP28rzCQwkvCds4K62JpQ68ufN4
+
+
+
+bettina:
+
+btc:
+https://btcscan.org/address/1QCWwQJuXCGzV2i26jkmJiJrMg1vxYJoy4
+https://btcscan.org/address/32d5h6A5d8ZaNbTmxXS3ALLxxmqZKafCZv
+https://btcscan.org/address/bc1qukvev82znk2m7gsmk7edxtwat6t7d8v3spespd
+https://btcscan.org/address/bc1qeup6ltxkjl94967pyrtskajkmspvvs550j8s57
+https://btcscan.org/address/bc1qdtvwee7rtufgdwut64duh2q8e79aylf9lnveye
+https://btcscan.org/address/bc1qwdt0fc0ezvqre5eyaasq5992fxn2a38ywzrm3r
+https://btcscan.org/address/bc1qav08c03t5ug76wa2mk8ycs967k0y3xfwjgq0qm
+https://btcscan.org/address/bc1qtjp2fq9rxt75jlkm4awrcaeusl8kunnx0ht2jd
+https://btcscan.org/address/bc1qvaas24nweda0aqdr4u3xwznxylnvc7ruvhdtrp
+
+bsc:
+https://bscscan.com/address/0x61b0f3dee02b3f04b6d11bcfc2555dd4c82e1460
+
+pol:
+https://polygonscan.com/address/0xe77736be210316adfd5193ed3f1b7713f4624647#tokentxns
+
+
+selkirk:
+
+
+https://etherscan.io/address/0x98659342b4E3d617eC61a8475ef9a679af7E5Da0
+https://etherscan.io/address/0x2bc05a0a7f507bad29a54348ed440315b05079d2
+
+
+
+andrea: 
+erste wallet passt soweit
+zweite wallet gibts tatsächlich viele 50 tron tx aber auch viele andere und im größeren zeitraum
+dritte wallet scheint zu passen, könnten vllt nachfragen was mitm bitmart ist
+
+
+indigo8:
+https://arbiscan.io/address/0xb2b8ad4fd9c0b770a78c2534d92dce89c0be8e8d
+
+listeeee:
+
+<input type="checkbox">ZibbeOneO: quasi fertig, steuerreports wurden abgeschickt und alles schön dem Kunden erklärt
+<input type="checkbox">corinnareuss: ich glaube ich hab noch nichts gemacht
+<input type="checkbox">SelkirkCT: quasi fertig, steuerreports hat er bekommen
+<input type="checkbox">Indigo8: 114 missings, wird sich noch viel ganz schnell lösen
+<input type="checkbox">Lucylou: wir warten auf daten, generell fast fertig ich glaube circa 50 missings
+<input type="checkbox">LucasBelegT: Fall an Henrik übergegeben, aber mal schauen vielleicht kann ich da noch was
+<input type="checkbox">Braddox: Henrik hat vergessen dass es den gab, viele tx scheinen an bitstamp gegangen zu sein aber der kunde sagt nein. viele missings noch, ich würde sagen prio
+<input type="checkbox">BettinaS: fertig, tax reports abgeschickt
+<input type="checkbox">USto: sie hat vor kurzem gezahlt, henrik hat mir mails geschickt.
+<input type="checkbox">Andrea: henrik hat ihr geschrieben aber keine antwort
+<input type="checkbox">nousername3000: vor nem monat ihm geschrieben, aber keine antwort
+<input type="checkbox">gerpisan: fertig, tax report geschickt
+<input type="checkbox">bkoenich: vor 14 tagen alle missings zu ihm geschickt,, keine antwort
+
+
+
+
+
+
+
+
+<input type="checkbox">corinnareuss: wird morgen henrik weitergegeben
+<input type="checkbox">Indigo8: henrik übernimmt
+<input type="checkbox">Lucylou: henrik übernimmt
+<input type="checkbox">LucasBelegT: henrik übernimmt
+<input type="checkbox">Braddox: an henrik gegeben
+<input type="checkbox">USto: muss noch irgendwas machen von wegen emails keine ahnung
+<input type="checkbox">Clerque1304:
+<input type="checkbox">jonaskoepke: aufbereiten, 
+<input type="checkbox">Analu_Krypto: Vergleich Account Daten MEXC (im Testaccount) mit Daten im Ticket: [https://cointracking.freshdesk.com/a/tickets/194507](https://cointracking.freshdesk.com/a/tickets/194507)
+<input type="checkbox">Katharina Hertel: Vergleich Daten Bitunix/Pionex (im Testaccount) mit denen im Account, wenn besser Import in Account machen: [https://cointracking.freshdesk.com/a/tickets/222273](https://cointracking.freshdesk.com/a/tickets/222273)
+<input type="checkbox">
+
+
+
+
+corinnareuss wallets:
+
+base:
+https://basescan.org/address/0x59D012A2D729E07e3193c4C935aA76a356206B37
+https://basescan.org/address/0xe637bfaD10D4fcf810979C38c5037831219a9c81
+
+polygon:
+https://polygonscan.com/address/0xb5a22ac8459eb1cB6Da6F3E8db184C66Ff7E483f
+https://polygonscan.com/address/0xd0E6ec48E3FCdCd0AB5029E4057348EBf9E2F1A6
+https://polygonscan.com/address/0x6647d3E10Ffe13DADF9A7CAf3d2921684d5145d5
+https://polygonscan.com/address/0xf768B00140399f2e0e05a7a9bC4Da6E49e864C0f
+
+
+arbitrum:
+https://arbiscan.io/address/0x5e2De72D2285a80eB1D480C0aAA545d1D6e41D1C#tokentxns
+
+
+ethereum:
+https://etherscan.io/address/0x7B714C87332F3B301314a44c22eBF706389214f7
+https://etherscan.io/address/0x0893345aD70315244CFf1c9faE34FB71a48504F5
+https://etherscan.io/address/0x0893345ad70315244cff1c9fae34fb71a48504f5
+
+
+hotbit konnte ich nicht importieren beim neuen typen, algorand auch?
+
+
+jest bug ze jak w dark mode wrzucasz duzy plik to jest napis bialy na zoltym tle i tego nie widac
+
+Legende:
+❗: important/priority
+🟠 in progress
+❌ didnt start yet
+✅ done/almost done
+⏳waiting for reply
+
+Aufgaben: 
+<input type="checkbox">r.Bohsem: 28 missings übrig, henrik schickt ihm zu, müssen auf antwort warten ⏳
+<input type="checkbox">Indigo8: 04.08 gespräch❗
+<input type="checkbox">corina: 04.08 gespräch❗
+<input type="checkbox">Lucylou: eigentlich fertig, fragt nur viel nach bei henrik ✅
+<input type="checkbox">Katharina Hertel:  eigentlich fertig ✅
+<input type="checkbox">clerque1304: soll Core3 und Sol glaube ich für 2025 machen 🟠
+<input type="checkbox">LucasBelegt: henrik machts ✅
+<input type="checkbox">Braddox: ⏳
+<input type="checkbox">SelkirkCT: ⏳
+<input type="checkbox">USto: henrik übernimmt war nicht mehr viel ✅
+<input type="checkbox">Andrea St.: unsicher was da los ist eigentlich, ich glaube henrik lässt mich wissen ❗
+<input type="checkbox">nousername3000: ⏳
+<input type="checkbox">tmorrisxyz: henrik soll mir feedback geben ⏳
+<input type="checkbox">rudi.privat: noch nicht angefangen ❌
+<input type="checkbox">jonaskoepke: nur noch  10 missings, werden dem kunden zugeschickt mal schauen was er dann sagt ⏳
+<input type="checkbox">bkoenich: ????
+
