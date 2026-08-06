@@ -364,7 +364,7 @@ Legende:
 ⏳waiting for reply
 
 Aufgaben: 
-<input type="checkbox">r.Bohsem: 04.08 besprechen, eigentlich fast fertig ⏳❗
+<input type="checkbox">r.Bohsem: 04.08 besprechen, eigentlich fast fertig nur noch steuer reports bearbeiten ⏳❗
 <input type="checkbox">Indigo8: 04.08 gespräch❗
 <input type="checkbox">corina: 04.08 gespräch❗
 <input type="checkbox">Lucylou: eigentlich fertig, fragt nur viel nach bei henrik ✅
@@ -376,9 +376,9 @@ Aufgaben:
 <input type="checkbox">USto: henrik übernimmt war nicht mehr viel ✅
 <input type="checkbox">Andrea St.: unsicher was da los ist eigentlich, ich glaube henrik lässt mich wissen ❗
 <input type="checkbox">nousername3000: ⏳
-<input type="checkbox">tmorrisxyz: henrik soll mir feedback geben ⏳
+<input type="checkbox">tmorrisxyz: henrik soll mir feedback geben ⏳ der schaut noch glkaube ich
 <input type="checkbox">rudi.privat: hat noch 41 missings, alles bitget, möglicherweise super easy missings 🟠⏳
-<input type="checkbox">jonaskoepke: nur noch  10 missings, werden dem kunden zugeschickt mal schauen was er dann sagt ⏳❗ besprechen 04.08
+<input type="checkbox">jonaskoepke: nur noch  10 missings, werden dem kunden zugeschickt mal schauen was er dann sagt ⏳❗ besprechen 04.08 -> wir brauchen infos von ihm warten noch ⏳
 <input type="checkbox">bkoenich: ????
 
 
@@ -388,3 +388,6 @@ Aufgaben:
 **zweite idee:** ein system erstellen das versucht automatisch links zu erstellen damit ich nicht die ganze zeit rumkopieren muss und explorer suchen, sondern dass er versucht das selbst festzustellen.
 **dritte idee:** zusätzlich zum automatischen verlinken könnte man direkt so was einfügen, dass man eine auszahlung minus gebühr mit einem klick sich kopieren kann ohne dass man jetzt extra online nen rechner benutzen muss. 
 **vierte idee:** automatischer "gegenstück" ersteller für transaktionen. sagen wir mal wir wissen eine missing braucht ein gegenstück von bybit, dann kann man sich direkt die transaktion auswählen, den button "gegenstück erstellen" anklicken und dann kriegt man direkt aus ner auszahlung ne einzahlung, die gebühr wird abgezogen automatisch und man muss nur die börse reinschreiben. hier der knaller, man kann sich anklicken, dass die zuletzt eingegebene börse wieder automatisch eingefüllt wird.
+
+
+corinna: alles sonstige sonstige ausgabe einnnahme, kauf node ist sonstige ausgabe, fees ist fees
